@@ -1,4 +1,5 @@
 Git Fitch here
+Edit Git2 file
 Git when working on the local machine uses three
 sections.
 1 Working directory(workspace)
